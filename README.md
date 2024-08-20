@@ -59,6 +59,4 @@ Pressing Enter within any submenu returns the user to the main menu.
 - **Highway Mode Blinkers**: This submenu shows the number of blinks (default is 3) and allows the user to adjust the value between 2 and 5. Input outside this range defaults to the minimum or maximum value.
 - **Tire Pressure Reset**: In this submenu, pressing the right arrow key followed by Enter resets the tire pressure and displays the message "Tire pressure reset," then returns to the main menu.
 
-## Getting Started
 
-To run the program, assemble and link the provided assembly source file, then execute the program in the desired mode as described above.
