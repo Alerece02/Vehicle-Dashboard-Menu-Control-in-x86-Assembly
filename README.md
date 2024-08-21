@@ -20,7 +20,7 @@ If accessed in supervisor mode, the menu will also allow the user to set:
 The program can be run in two modes:
 
 - **User mode**: Run by executing the program from the command line.
-- **Supervisor mode**: Run by executing the program followed by the code `2244` (e.g., `program.exe 2244`).
+- **Supervisor mode**: Run by executing the program followed by the code `2244`.
 
 ### User Mode
 
